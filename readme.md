@@ -6,8 +6,8 @@ Normalizes a string value for a percentage expressed as a number with or without
        -If present, the percent sign must appear after the number.
        -Commas may be used a number separator
 
-####Objective: Create a program and then test it.
+#### Objective: Create a program and then test it.
 
-####Primary Technology Used in this application:
+#### Primary Technology Used in this application:
 * C#
 * Visual Studio
